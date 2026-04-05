@@ -4,3 +4,5 @@
 
 <img width="663" height="371" alt="sales_dashboard" src="https://github.com/user-attachments/assets/17798429-1db8-45c2-8499-4b3d068ff57c" />
 <img width="572" height="322" alt="sales_dashboard" src="https://github.com/user-attachments/assets/6883785b-bc4c-4293-a324-eeefbd1aba1b" />
+<img width="305" height="185" alt="sales_dashboard png (2)" src="https://github.com/user-attachments/assets/79075915-615f-4d18-92c2-f736fc0d0513" />
+<img width="672" height="313" alt="dashboard3" src="https://github.com/user-attachments/assets/09b09687-162e-42a7-8e43-461fe685e513" />
