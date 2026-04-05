@@ -1,0 +1,28 @@
+ Sales Analysis Dashboard
+
+This project is a Power BI dashboard to analyze sales performance.
+
+Tools Used
+- Power BI
+- SQL
+- Python
+
+ Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+Shows overall sales performance including total revenue, trends, and top customers.
+
+ Sales Trend
+![Trend](screenshots/sales_trend.png)
+
+ Displays monthly sales trends and peak periods.
+
+ Top Customers
+![Customers](screenshots/top_customers.png)
+
+ Highlights top 10 customers by revenue.
+
+ Sales by Region
+![Region](screenshots/region_analysis.png)
+
+ Compares sales performance across regions.
