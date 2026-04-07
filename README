@@ -25,4 +25,6 @@ Shows overall sales performance including total revenue, trends, and top custome
  Sales by Region
 ![Region](screenshots/region_analysis.png)
 
- Compares sales performance across regions.
+SQL queries used for data analysis (sql/analysis.sql)
+
+Python script used for data cleaning (python/data_cleaning.py)
