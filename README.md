@@ -7,3 +7,12 @@
 <img width="305" height="185" alt="sales_dashboard png (2)" src="https://github.com/user-attachments/assets/79075915-615f-4d18-92c2-f736fc0d0513" />
 
 <img width="672" height="313" alt="dashboard3" src="https://github.com/user-attachments/assets/09b09687-162e-42a7-8e43-461fe685e513" />
+## 📈 Key Insights
+
+- North region contributes the highest revenue
+- Top 10 customers generate the majority of sales
+- Sales show fluctuations across different months
+- ## 📂 Dataset
+
+- Sample sales dataset used for analysis
+- Data includes information on customers, regions, sales, and order dates
