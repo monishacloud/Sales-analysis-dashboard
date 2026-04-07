@@ -1,0 +1,13 @@
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("sales_data.csv")
+
+# Remove null values
+df = df.dropna()
+
+# Convert date column
+df['Order_Date'] = pd.to_datetime(df['Order_Date'])
+
+# Show first few rows
+print(df.head())
