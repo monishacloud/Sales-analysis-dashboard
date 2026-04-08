@@ -16,3 +16,13 @@
 
 - Sample sales dataset used for analysis
 - Data includes information on customers, regions, sales, and order dates
+- ## 📂 Project Structure
+sales-analysis-dashboard/
+│
+├── README.md
+├── Sales_Analysis_Dashboard.pbix
+├── screenshots/
+├── sql/
+│ └── analysis.sql
+└── python/
+└── data_cleaning.py
